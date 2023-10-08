@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "",
+		"name": "SEO",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Search Engine Optimization",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"url\": \"\"\n}"
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/searchEngineOptimization",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"searchEngineOptimization"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
