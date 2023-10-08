@@ -17,5 +17,5 @@ pip3 install -r requirements.txt
 ```
     1. Spin up the server --> python app.py
     2. Import SEO.postman_collection.json as collection in postman.
-    3. Once imported supply your url in request body and You are ready to go and use this application. All the very best!
+    3. Once imported supply your url in request body and You are ready to go to use this application. All the very best!
 ```
